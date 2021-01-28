@@ -1,0 +1,3 @@
+/home/paola/Documenti/massi/info_gennaio_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/paola/Documenti/massi/info_gennaio_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paola/Documenti/massi/info_gennaio_cpp/cmake-build-debug/CMakeFiles/info_gennaio_cpp.dir

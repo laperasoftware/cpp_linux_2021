@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/info_gennaio_cpp.dir/main.cpp.o  -o info_gennaio_cpp 
